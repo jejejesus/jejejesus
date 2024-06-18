@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Jesús Bañuelos from México<br><br>- 🔭 I’m working as Desktop programmer<br>- 📚 I'm currently learning the MERN stack and Flutter</p>
+<p align="left">I'm Jesús Bañuelos from México<br><br>- 🔭 I’m working as a Desktop programmer<br>- 📚 I'm currently learning the MERN stack and Flutter</p>
 
 ###
 

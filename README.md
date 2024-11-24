@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Jesús Bañuelos from México<br><br>- 🔭 I’m working as a Desktop programmer<br>- 📚 I'm currently learning the MERN stack and Flutter</p>
+<p align="left">I'm Jesús Bañuelos from México<br><br>- 🔭 I’m working as a Desktop programmer<br>- 📚 I'm currently learning the MERN stack and other technologies</p>
 
 ###
 
@@ -52,11 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
